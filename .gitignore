@@ -1,0 +1,7 @@
+# Compiled binary
+/random_name
+
+# Local database (created in the working directory at runtime)
+random_names.db
+random_names.db-shm
+random_names.db-wal
